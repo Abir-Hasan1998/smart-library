@@ -5,7 +5,7 @@
 <html>
 <head>
 	<title>
-		Online Library Management System
+		Online Library Management System House
 	</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<meta charset="utf-8"> 
